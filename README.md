@@ -4,3 +4,4 @@
 * fixB
 * featureC
 * featureD
+* featureD-clone
